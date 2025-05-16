@@ -28,7 +28,7 @@
 - **Language:** Java  
 - **Database:** SQLite  
 - **UI:** XML Layouts  
-- **Architecture:** Activity + SQLiteOpenHelper  
+- **Architecture:** Activity + Room DB  
 - **Min SDK:** 21+
 
 ---

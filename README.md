@@ -1,6 +1,6 @@
 # 📇 ContactsManagerApp
 
-**ContactsManagerApp** is a simple Android application built using **Java** that demonstrates how to add, view, and manage contacts using a local database (typically SQLite). It serves as a practical example for CRUD operations, user input, and database handling in Android.
+**ContactsManagerApp** is a simple Android application built using **Java** that demonstrates how to add, view, and manage contacts using a database (Room DB). It serves as a practical example for CRUD operations, user input, and database handling in Android.
 
 ---
 
@@ -8,7 +8,7 @@
 
 - ➕ Add new contacts (name, number, etc.)
 - 📋 View saved contacts in a structured list
-- 💾 Local database integration using SQLite
+- 💾 database integration using Room DB
 - 🔄 Simple and responsive UI for data entry and display
 
 ---
